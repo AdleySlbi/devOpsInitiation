@@ -207,3 +207,5 @@ override.tf.json
 **/*.tfvars
 **/*.tfstate
 **/*.tfstate.*
+
+environment.go
